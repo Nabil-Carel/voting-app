@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voting-app/static/css/main.eba83494.chunk.css",
+    "main.js": "/voting-app/static/js/main.01d9e530.chunk.js",
+    "main.js.map": "/voting-app/static/js/main.01d9e530.chunk.js.map",
+    "runtime~main.js": "/voting-app/static/js/runtime~main.852d6adc.js",
+    "runtime~main.js.map": "/voting-app/static/js/runtime~main.852d6adc.js.map",
+    "static/css/2.3cef9883.chunk.css": "/voting-app/static/css/2.3cef9883.chunk.css",
+    "static/js/2.09d1baa8.chunk.js": "/voting-app/static/js/2.09d1baa8.chunk.js",
+    "static/js/2.09d1baa8.chunk.js.map": "/voting-app/static/js/2.09d1baa8.chunk.js.map",
+    "index.html": "/voting-app/index.html",
+    "precache-manifest.c9a985504a5c4960abb4aae3e40e6a7c.js": "/voting-app/precache-manifest.c9a985504a5c4960abb4aae3e40e6a7c.js",
+    "service-worker.js": "/voting-app/service-worker.js",
+    "static/css/2.3cef9883.chunk.css.map": "/voting-app/static/css/2.3cef9883.chunk.css.map",
+    "static/css/main.eba83494.chunk.css.map": "/voting-app/static/css/main.eba83494.chunk.css.map",
+    "static/media/semantic.css": "/voting-app/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/daniel.jpg": "/voting-app/static/media/daniel.fcfe2bd1.jpg",
+    "static/media/kristy.png": "/voting-app/static/media/kristy.3ac267b2.png",
+    "static/media/molly.png": "/voting-app/static/media/molly.45fdd648.png",
+    "static/media/veronika.jpg": "/voting-app/static/media/veronika.c60fcb0b.jpg"
+  }
+}
